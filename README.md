@@ -5,9 +5,13 @@
 -THE APP CAN BE FURTHER EXTENDED WITH VARIOUS FUNCTIONALITIES LIKE NAVIGATION ,VIDEO CALLING AND SOS FUNCTIONALITY 
 
 ## Software Requirements:
+
 -Google FireBase
+
 -Tensorflow Library
+
 -Speech To Text APIs
+
 -Text to Speech APIs
 
 ## Flow of Code:
@@ -24,6 +28,7 @@ Menu is read out using Text to speech API: Firebase ML KIT
 Press the __Speak__ button and Using the Keyword __Vision__ we can name the button to be redirected accordingly
 
 Geographically Placed buttons on the Screen with distict functions:
+
 __SOS__: On single click or Voice Command sends SOS message to 5 close relatives with Geo-Location using Google maps API and a call is dialed to the closest relative
 
 __Text Reading__: On clicking this button Text Detection API :Tensorflow comes into use which can read any font or style of text from almost any surface with 95% accuracy. This text is then Read out using Text to Speech API 
