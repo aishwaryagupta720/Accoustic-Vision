@@ -10,6 +10,8 @@
 
 -Tensorflow Library
 
+-GoogleMaps API key
+
 -Speech To Text APIs
 
 -Text to Speech APIs
